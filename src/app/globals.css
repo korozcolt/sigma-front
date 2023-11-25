@@ -25,3 +25,9 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.bg-cover {
+  background-image: url("/assets/img/register.jpeg");
+  background-size: cover;
+  background-position: center;
+}
